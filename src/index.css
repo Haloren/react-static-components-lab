@@ -13,6 +13,8 @@ html,
 	height: 100%;
 	display: flex;
 	flex-direction: column;
+	color: white;
+	font-size: 2rem;
 }
 
 .bar {
